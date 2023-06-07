@@ -1,0 +1,170 @@
+header .line{
+    background-color: black;
+    height: 15px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #ccc;
+    padding: 10px;
+
+
+}
+
+
+
+
+.style {
+
+    display: flex;
+    flex: 1;
+
+}
+
+
+.banner img{
+
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    background-color: red;
+    height: 70px;  
+    color: black;
+    border-radius: 12px;
+    display: block;
+    text-align: center;
+    margin: auto;  
+    box-shadow: 9px 9px 5px #fab;
+    padding: 8px;
+  
+    
+}
+
+
+header .titulo {
+    background-color: purple;
+    text-align: center;
+    border-radius: 25px;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 10px 10px 5px #bbe;
+    padding: 9px;
+}
+
+header .sumario{
+    display: flex;
+    flex-direction: column;
+    height: 360px;
+    background-color: violet;
+    color: blue;
+    text-align: center;
+    border-radius: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 11px 11px 6px #cfe;
+    padding: 14px;
+}
+
+
+.main {
+    display: flex;
+    flex-direction:column;
+    background-color: purple;
+    color: black;
+    height: 200px;
+    font-size: 16px;   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: 11px 11px 6px #cfe;
+    padding: 20px;
+}
+
+.footer {
+    background-color: green;
+    height: 20px;
+    color: blue;
+    border-radius: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 10px 10px 5px #ccc;
+    
+}
+
+
+main .delhaesmain{
+    background-color: gray;
+    height: 400px;
+
+
+}
+
+
+.submenu {
+
+    margin : 50px;
+    background-color: orange;
+    color: brown;
+    box-shadow: 10px 10px 5px #ccc;
+    border-radius: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+.container {
+
+    display: flex;
+    justify-content: center;
+}
+
+.literatura1 img{
+
+    width: 100px;
+    height: 100x;
+    object-fit: contain;
+    background-color: brown;
+    height: 70px;  
+    color: black;
+    border-radius: 12px;
+    display: block;
+    text-align: center;
+    margin: auto;  
+    box-shadow: 9px 9px 5px #fab;
+    padding: 8px;
+  
+    
+}
+
+
+.literatura2 img{
+
+    width: calc(100%-20%px);
+    height: 150px;
+    background-color: green;
+    height: 70px;  
+    color: black;
+    border-radius: 12px;
+    display: block;
+    text-align: center;
+    margin: auto;  
+    box-shadow: 9px 9px 5px #fab;
+    padding: 8px;
+  
+    
+}
+
+
+.literatura3 img{
+
+    width: 130px;
+    height:130px;
+    object-fit: cover;
+    background-color: black;
+    height: 70px;  
+    color: black;
+    border-radius: 12px;
+    display: block;
+    text-align: center;
+    margin: auto;  
+    box-shadow: 9px 9px 5px #fab;
+    padding: 8px;
+  
+    
+}
